@@ -300,7 +300,7 @@
 
         // Small grace period for the checkmark animation
         setTimeout(() => { window.location.href = 'https://glidara.site/post'; }, 600);
-      }, 2000);
+      }, 6000);
     }, 300); // "few milliseconds" before starting the spinner
   }
 
